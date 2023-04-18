@@ -4,7 +4,7 @@
 - 🔭 I’m currently working at Matrix Solutions
 - 🌱 I’m currently learning React.js
 - 💬 Ask me about my portfolio
-- 📫 How to reach me: [ff_ruzmetov](https://t.me/ff_ruzmetov)
+- 📫 How to reach me: [f_ruzmetov](https://t.me/f_ruzmetov)
 ---
 ### :hammer_and_wrench: Languages and Tools :
 
