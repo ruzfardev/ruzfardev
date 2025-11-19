@@ -1,10 +1,8 @@
 ### Hi there 👋
 - 👨🏻‍💻 I'm Farrukh Ruzmetov
 - 👨‍🎓 I'm currently student at [WIUT](https://wiut.uz/home)
-- 🔭 I’m currently working at Matrix Solutions
-- 🌱 I’m currently learning React.js
-- 💬 Ask me about my portfolio
-- 📫 How to reach me: [fm_ruzmetov](https://t.me/fm_ruzmetov)
+- 🔭 I’m currently working at Datamicron
+- 📫 How to reach me: [fm_ruzmetov](https://t.me/fmy_ruzmetov)
 ---
 ### :hammer_and_wrench: Languages and Tools :
 
